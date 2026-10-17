@@ -79,13 +79,13 @@ SQL concepts used: `GROUP BY`, `HAVING`, `CASE WHEN`, aggregate functions, condi
 ## Stage 3: Power BI Dashboard
 
 ### 1. Overview
-![Overview](images/Booking_Analysis.jpeg)
+![Overview](Images/Booking_Analysis.jpeg)
 
 ### 2. Cancellation Analysis
-![Cancellations](images/Cancellation_Analysis.jpeg)
+![Cancellations](Images/Cancellation_Analysis.jpeg)
 
 ### 3. Revenue & Vehicle Performance
-![Revenue](images/Revenue_Analysis.jpeg)
+![Revenue](Images/Revenue_Analysis.jpeg)
 
 ---
 
