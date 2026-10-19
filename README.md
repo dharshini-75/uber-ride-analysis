@@ -111,6 +111,6 @@ SQL concepts used: `GROUP BY`, `HAVING`, `CASE WHEN`, aggregate functions, condi
 
 ## Author
 
-**Dharshini G**
+**Dharshini JG**
 B.Sc Computer Science, Thiagarajar College, Madurai
 [GitHub](https://github.com/dharshini-75) · [LinkedIn](https://www.linkedin.com/in/dharshini-gunasekaran-5474a5319/)
