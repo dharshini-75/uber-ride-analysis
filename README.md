@@ -30,12 +30,11 @@ End-to-end analysis of 150,000 Uber ride bookings from the Delhi NCR region, cov
 ```
 .
 ├── Uber_Ride_Analysis.ipynb      # Stage 1: cleaning, validation, EDA
-├── sql/
-│   ├── 01_Database_Setup.sql
-│   ├── 02_Data_Quality_Checks.sql
-│   ├── 03_Booking_Performance.sql
-│   ├── 04_Customer_Analysis.sql
-│   └── 05_Business_Insights.sql
+├── 01_Database_Setup.sql
+├── 02_Data_Quality_Checks.sql
+├── 03_Booking_Performance.sql
+├── 04_Customer_Analysis.sql
+├── 05_Business_Insights.sql
 ├── images/
 │   ├── Booking_Analysis.jpeg
 │   ├── Cancellation_Analysis.jpeg
